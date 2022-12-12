@@ -1,6 +1,6 @@
 <?php
-session_start();
-include('includes/header.php');
+    include('authentication.php');
+    include('includes/header.php');
 ?>
 
 <h1>Home Page</h1>
