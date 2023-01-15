@@ -1,2 +1,2 @@
-# PHP_CRUD_JWT_e_Firebase
+# PHP CRUD JWT e Firebase
 CRUD Completo em PHP, JWT e Firebase
